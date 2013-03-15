@@ -15,7 +15,7 @@ Chrome Packaged App currently depends on the following libraries:
 - [jQuery](http://www.jquery.com) v1.8.2
 - [Kendo UI](http://www.kendoui.com) vCurrent
 
-Packaged App Bootstrap has not been tested against any other versions of these libraries. You may find that versions other than these are compatible with [Project Name], but we make no claims to support those version, nor can we troubleshoot issues that arise when using those versions.
+Packaged App Bootstrap has not been tested against any other versions of these libraries. You may find that versions other than these are compatible with Packaged App Bootstrap, but we make no claims to support those version, nor can we troubleshoot issues that arise when using those versions.
 
 ## Source Code and Downloads
 
@@ -31,7 +31,7 @@ Check out the following videos and articles for working with the Packaged App Bo
 
 ## How to Contribute
 
-If you would like to contribute to Packaged App Bootstrap's source code, please read the [guidelines for pull requests and contributions](LINK TO YOUR PROJECTS CONTRIBUTING.md HERE). Following these guidelines will help make your contributions easier to bring in to the next release.
+If you would like to contribute to Packaged App Bootstrap's source code, please read the [guidelines for pull requests and contributions](CONTRIBUTING.md). Following these guidelines will help make your contributions easier to bring in to the next release.
 
 ## Getting Help
 
@@ -41,7 +41,7 @@ As a part of Kendo UI Labs, Packaged App Bootstrap is intended to be a community
 
 ## Release Notes
 
-For change logs and release notes, see the [changelog](changelog.md) file.
+For change logs and release notes, see the [changelog](CHANGELOG.md) file.
 
 ## MIT License
 
